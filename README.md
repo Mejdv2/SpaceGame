@@ -1,2 +1,6 @@
-# SpaceGame
-Yeah its a space game
+Team member:
+- SomeRandomGPU2
+- Notenlish
+- trition
+- Kaan
+- Kade / Kadane
